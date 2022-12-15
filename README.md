@@ -1,1 +1,1 @@
-# Full-Stack-Tricket-Tracker
+# Full-Stack-Ticket-Tracker
